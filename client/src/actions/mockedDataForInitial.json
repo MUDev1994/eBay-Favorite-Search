@@ -25,7 +25,7 @@
           "conditionDisplayName": ["Excellent - Refurbished"]
         }
       ],
-      "pictureURLLarge": ["/mockedDataImages/1.jpeg"]
+      "pictureURLLarge": ["./mockedDataImages/1.jpeg"]
     },
     {
       "itemId": ["175972016033"],
@@ -51,7 +51,7 @@
           "conditionDisplayName": ["Open box"]
         }
       ],
-      "pictureURLLarge": ["/mockedDataImages/2.jpeg"]
+      "pictureURLLarge": ["./mockedDataImages/2.jpeg"]
     },
     {
       "itemId": ["315248241753"],
@@ -77,7 +77,7 @@
           "conditionDisplayName": ["Used"]
         }
       ],
-      "pictureURLLarge": ["/mockedDataImages/3.jpeg"]
+      "pictureURLLarge": ["./mockedDataImages/3.jpeg"]
     },
     {
       "itemId": ["365070122808"],
@@ -103,7 +103,7 @@
           "conditionDisplayName": ["Used"]
         }
       ],
-      "pictureURLLarge": ["/mockedDataImages/4.jpeg"]
+      "pictureURLLarge": ["./mockedDataImages/4.jpeg"]
     },
     {
       "itemId": ["256681287606"],
@@ -130,7 +130,7 @@
           "conditionDisplayName": ["Very Good - Refurbished"]
         }
       ],
-      "pictureURLLarge": ["/mockedDataImages/5.jpeg"]
+      "pictureURLLarge": ["./mockedDataImages/5.jpeg"]
     },
     {
       "itemId": ["285844030479"],
@@ -156,7 +156,7 @@
           "conditionDisplayName": ["Very Good - Refurbished"]
         }
       ],
-      "pictureURLLarge": ["/mockedDataImages/6.jpeg"]
+      "pictureURLLarge": ["./mockedDataImages/6.jpeg"]
     },
     {
       "itemId": ["262668255586"],
@@ -183,7 +183,7 @@
           "conditionDisplayName": ["Excellent - Refurbished"]
         }
       ],
-      "pictureURLLarge": ["/mockedDataImages/7.jpeg"]
+      "pictureURLLarge": ["./mockedDataImages/7.jpeg"]
     },
     {
       "itemId": ["256702929219"],
@@ -210,7 +210,7 @@
           "conditionDisplayName": ["Excellent - Refurbished"]
         }
       ],
-      "pictureURLLarge": ["/mockedDataImages/8.jpeg"]
+      "pictureURLLarge": ["./mockedDataImages/8.jpeg"]
     },
     {
       "itemId": ["305041536581"],
@@ -248,7 +248,7 @@
           "soldOffEbay": ["false"]
         }
       ],
-      "pictureURLLarge": ["/mockedDataImages/9.jpeg"]
+      "pictureURLLarge": ["./mockedDataImages/9.jpeg"]
     },
     {
       "itemId": ["285963759885"],
@@ -274,7 +274,7 @@
           "conditionDisplayName": ["Good - Refurbished"]
         }
       ],
-      "pictureURLLarge": ["/mockedDataImages/10.jpeg"]
+      "pictureURLLarge": ["./mockedDataImages/10.jpeg"]
     },
     {
       "itemId": ["267033169835"],
@@ -301,7 +301,7 @@
           "conditionDisplayName": ["Excellent - Refurbished"]
         }
       ],
-      "pictureURLLarge": ["/mockedDataImages/11.jpeg"]
+      "pictureURLLarge": ["./mockedDataImages/11.jpeg"]
     },
     {
       "itemId": ["286165081933"],
@@ -327,7 +327,7 @@
           "conditionDisplayName": ["Excellent - Refurbished"]
         }
       ],
-      "pictureURLLarge": ["/mockedDataImages/12.jpeg"]
+      "pictureURLLarge": ["./mockedDataImages/12.jpeg"]
     },
     {
       "itemId": ["304762827171"],
@@ -355,7 +355,7 @@
           "conditionDisplayName": ["Excellent - Refurbished"]
         }
       ],
-      "pictureURLLarge": ["/mockedDataImages/13.jpeg"]
+      "pictureURLLarge": ["./mockedDataImages/13.jpeg"]
     },
     {
       "itemId": ["286059104623"],
@@ -382,7 +382,7 @@
           "conditionDisplayName": ["Excellent - Refurbished"]
         }
       ],
-      "pictureURLLarge": ["/mockedDataImages/14.jpeg"]
+      "pictureURLLarge": ["./mockedDataImages/14.jpeg"]
     },
     {
       "itemId": ["255100255641"],
@@ -408,7 +408,7 @@
           "conditionDisplayName": ["Excellent - Refurbished"]
         }
       ],
-      "pictureURLLarge": ["/mockedDataImages/15.jpeg"]
+      "pictureURLLarge": ["./mockedDataImages/15.jpeg"]
     },
     {
       "itemId": ["304029933336"],
@@ -436,7 +436,7 @@
           "conditionDisplayName": ["Very Good - Refurbished"]
         }
       ],
-      "pictureURLLarge": ["/mockedDataImages/16.jpeg"]
+      "pictureURLLarge": ["./mockedDataImages/16.jpeg"]
     },
     {
       "itemId": ["293713688571"],
@@ -464,7 +464,7 @@
           "conditionDisplayName": ["Excellent - Refurbished"]
         }
       ],
-      "pictureURLLarge": ["/mockedDataImages/17.jpeg"]
+      "pictureURLLarge": ["./mockedDataImages/17.jpeg"]
     },
     {
       "itemId": ["256627903882"],
@@ -491,7 +491,7 @@
           "conditionDisplayName": ["Very Good - Refurbished"]
         }
       ],
-      "pictureURLLarge": ["/mockedDataImages/18.jpeg"]
+      "pictureURLLarge": ["./mockedDataImages/18.jpeg"]
     },
     {
       "itemId": ["293526962748"],
@@ -519,7 +519,7 @@
           "conditionDisplayName": ["Excellent - Refurbished"]
         }
       ],
-      "pictureURLLarge": ["/mockedDataImages/19.jpeg"]
+      "pictureURLLarge": ["./mockedDataImages/19.jpeg"]
     },
     {
       "itemId": ["335608681780"],
@@ -545,7 +545,7 @@
           "conditionDisplayName": ["Very Good - Refurbished"]
         }
       ],
-      "pictureURLLarge": ["/mockedDataImages/20.jpeg"]
+      "pictureURLLarge": ["./mockedDataImages/20.jpeg"]
     },
     {
       "itemId": ["256455927883"],
@@ -571,7 +571,7 @@
           "conditionDisplayName": ["Very Good - Refurbished"]
         }
       ],
-      "pictureURLLarge": ["/mockedDataImages/21.jpeg"]
+      "pictureURLLarge": ["./mockedDataImages/21.jpeg"]
     },
     {
       "itemId": ["387637749776"],
@@ -603,7 +603,7 @@
           "conditionDisplayName": ["New"]
         }
       ],
-      "pictureURLLarge": ["/mockedDataImages/22.jpeg"]
+      "pictureURLLarge": ["./mockedDataImages/22.jpeg"]
     },
     {
       "itemId": ["226394896553"],
@@ -629,7 +629,7 @@
           "conditionDisplayName": ["Excellent - Refurbished"]
         }
       ],
-      "pictureURLLarge": ["/mockedDataImages/23.jpeg"]
+      "pictureURLLarge": ["./mockedDataImages/23.jpeg"]
     },
     {
       "itemId": ["285789353494"],
@@ -656,7 +656,7 @@
           "conditionDisplayName": ["Very Good - Refurbished"]
         }
       ],
-      "pictureURLLarge": ["/mockedDataImages/24.jpeg"]
+      "pictureURLLarge": ["./mockedDataImages/24.jpeg"]
     },
     {
       "itemId": ["285814732316"],
@@ -682,7 +682,7 @@
           "conditionDisplayName": ["Used"]
         }
       ],
-      "pictureURLLarge": ["/mockedDataImages/25.jpeg"]
+      "pictureURLLarge": ["./mockedDataImages/25.jpeg"]
     }
   ]
 }
