@@ -1,6 +1,6 @@
 let requestsArr = [];
 
-
+const imgNoImg = require(".././images/imgNoImg.jpg");
 const mockedDataForInitial = require('./mockedDataForInitial.json');
 
 export function fetchEbayApiDataFromBackend(searchBoxValue, listingType, maxResults, ebayDataAfterOrBefore, listingEndTime, sortBy, matchURL = "") {
@@ -69,7 +69,7 @@ export function fetchEbayApiDataFromBackend(searchBoxValue, listingType, maxResu
 
 function fixEbayApiData(items) {
     items.forEach(item => {
-        item.image_url = (item.pictureURLSuperSize) || (item.pictureURLLarge) || (item.galleryURL) || ("https://ir.ebaystatic.com/pictures/aw/pics/nextGenVit/imgNoImg.gif");
+        item.image_url = (item.pictureURLSuperSize) || (item.pictureURLLarge) || (item.galleryURL) || (imgNoImg);
         item.condition = (item.condition !== undefined) ? item.condition[0].conditionDisplayName[0] : "N/A"
         item.returns_accepted = (item.returnsAccepted !== undefined) ? ((item.returnsAccepted[0] === "true") ? "Yes" : "No") : "N/A";
         item.item_id = item.itemId;
